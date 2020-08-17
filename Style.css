@@ -26,4 +26,19 @@ section>h2{
   padding-top:10px;
   width:230px;
 }
-  
+section.less>h2{
+  background-color:#76b8db;
+}
+section.harry>h2{
+  background-color:#4f7acd;
+}
+section.Berlin>h2{
+  color:#8245b;
+  background-color:#10328a;
+}
+section.p{
+  padding:40px 15px 15px 15px; 
+}
+.row{
+  width:100%;
+}
