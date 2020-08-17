@@ -13,3 +13,17 @@ section{
   background-color:light-pink;
   margin: 10px;
 }
+section>h2{
+  float:right;
+  text-algin:center;
+  font-style:times;
+  font-size:24px;
+  border-botttom:1px solid black;
+  border-left:1px solid black;
+  font-weight:bold;
+  margin:0;
+  height:45px;
+  padding-top:10px;
+  width:230px;
+}
+  
