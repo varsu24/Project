@@ -27,9 +27,11 @@ section>h2{
   width:230px;
 }
 section.less>h2{
+  color:#8245b;
   background-color:#76b8db;
 }
 section.harry>h2{
+  color:#8245b;
   background-color:#4f7acd;
 }
 section.Berlin>h2{
