@@ -17,7 +17,7 @@ section{
 section>h2{
   float:right;
   text-algin:center;
-  font-style:times;
+  font-style: Times;
   font-size:24px;
   border-botttom:1px solid black;
   border-left:1px solid black;
@@ -85,7 +85,7 @@ section>p{
 .col-lg-12{
   width:100%;
 }
-@media(min-width:768px) and(max-width:991px){
+@media(min-width:768px) and (max-width:991px){
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12{
   float:left;
   }
