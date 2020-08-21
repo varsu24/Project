@@ -1,11 +1,12 @@
 *{
 box-sizing:border-box;
+   font-family: Helvetica;
 }
 body{
-color:grey;
+background-color:grey;
 }
 h1{
-  text-algin-center;
+  text-algin:center;
   color:black;
 }
 section{
