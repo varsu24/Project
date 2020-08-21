@@ -16,10 +16,10 @@ section{
 }
 section>h2{
   float:right;
-  text-algin:center;
+  text-align:center;
   font-style: Times;
   font-size:24px;
-  border-botttom:1px solid black;
+  border-bottom:1px solid black;
   border-left:1px solid black;
   font-weight:bold;
   margin:0;
